@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanlavenant&theme=radical)]
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordanlavenant)]
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018c9e5a-5237-4e83-ad98-d9f609759257)]
 
 <!---
 jordanlavenant/jordanlavenant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
