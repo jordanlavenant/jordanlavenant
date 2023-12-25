@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanlavenant&show_icons=true&theme=radical)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanlavenantlayout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanlavenant&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 jordanlavenant/jordanlavenant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
