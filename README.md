@@ -6,9 +6,10 @@
 - 👀 I'm particularly interested in [**node.js**](https://nodejs.org/en) web application development, and web animations.
 - 📫 How to reach me : contact@jordanlavenant.fr
 
+## About my socials
+
 <a href="https://linkedin.com/in/jordanlavenant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordanlavenant" height="30" width="40" />
 <a href="https://gitlab.com/jordanlavenant" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="jordanlavenant" height="30" width="40" /></a>
-
 
 ## About my skills
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
