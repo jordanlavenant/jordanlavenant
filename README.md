@@ -2,7 +2,7 @@
 
 ## About me 
 
-- 👋 Hi, I’m _Jordan LAVENANT_, an 20 years old computer science student at Orléans 🇫🇷
+- 👋 Hi, I’m _Jordan LAVENANT_, an 21 years old computer science student at Paris 🇫🇷
 - 👀 I'm particularly interested in [**node.js**](https://nodejs.org/en) web application development, and web animations.
 - 📫 How to reach me : contact@jordanlavenant.fr
 
